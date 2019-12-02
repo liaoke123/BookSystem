@@ -1,0 +1,6 @@
+# Project exclude paths
+/Book-Common/target/
+/Book-Dao/target/
+/Book-Entity/target/
+/Book-Service/target/
+/Book-WEBUI/target/
